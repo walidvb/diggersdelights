@@ -67,7 +67,7 @@
   "devDependencies": {
     "@rails/webpacker": "^4.2.2",
     "babel-loader": "^8.1.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-flexbugs-fixes": "^4.2.0",
     "postcss-loader": "^3.0.0",
     "style-loader": "^1.1.3",
